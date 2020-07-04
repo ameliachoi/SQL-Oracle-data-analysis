@@ -1,5 +1,7 @@
 # SQL-Oracle-data-analysis
-Oracle data analysis studynote
+*Learning spoons <데이터 이해를 위한 SQL> 수업 정리 자료입니다.*
+
+[참고 도서 : 누구나 쉽게 SQL](https://thebook.io/080202/)
 
 ---
 
